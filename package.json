@@ -1,4 +1,5 @@
 {
+  "name": "caesar-ui",
   "private": true,
   "packageManager": "npm@8.19.2",
   "workspaces": [
