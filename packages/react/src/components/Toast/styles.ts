@@ -11,9 +11,6 @@ export const ToastContainer = styled('div', {
   border: '1px solid $gray600',
 
   span: {
-    // display: 'flex',
-    // width: '100%',
-    // justifyContent: 'space-between',
     fontWeight: '$bold',
     fontSize: '$xl',
     color: '$white',
@@ -26,8 +23,14 @@ export const ToastContainer = styled('div', {
     lineHeight: 0,
   },
 
-  svg: {
-    color: '$gray200',
-    marginTop: '$1',
+  button: {
+    border: 'none',
+    backgroundColor: 'inherit',
+    height: '$5',
+
+    svg: {
+      color: '$gray200',
+      marginTop: '$1',
+    },
   },
 })

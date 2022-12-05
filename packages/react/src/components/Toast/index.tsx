@@ -11,7 +11,9 @@ export function Toast() {
         <span>Agendamento realizado</span>
         <p>Quarta-feira, 23 de Outubro às 16h</p>
       </div>
-      <X size={20} />
+      <button>
+        <X size={20} />
+      </button>
     </ToastContainer>
   )
 }
