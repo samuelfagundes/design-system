@@ -2,7 +2,7 @@ import type { StoryObj, Meta } from '@storybook/react'
 import { Toast, ToastProps } from '@caesar-ui/react'
 
 export default {
-  title: 'Surfaces/Toast',
+  title: 'Pop up/Toast',
   component: Toast,
   args: {},
 } as Meta<ToastProps>
