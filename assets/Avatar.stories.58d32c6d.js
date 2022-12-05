@@ -1,0 +1,2 @@
+import{A as t}from"./index.95cbbd58.js";import"./index.5c44cd7d.js";import"./iframe.b2f575a0.js";import"./index.bcb8d4fe.js";import"./jsx-runtime.95c38ffb.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://i.pinimg.com/236x/69/9e/45/699e453e72214695f20223749274dc61.jpg",alt:"Guts"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.58d32c6d.js.map
